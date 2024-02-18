@@ -4,3 +4,16 @@ https://www.youtube.com/watch?v=iWzUZiVoiR0
 conda create --name react_native_env
 conda activate react_native_env
 
+2. Project Setup
+npx create-expo-app airbnb -t tabs
+npx expo
+
+3. Google Font
+https://fonts.google.com/specimen/Montserrat
+
+4. Icons
+https://icons.expo.fyi/Index
+
+
+
+
