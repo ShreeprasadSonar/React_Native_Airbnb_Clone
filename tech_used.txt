@@ -1,12 +1,6 @@
-1. React Native: https://reactnative.dev/, 
-Expo is a set of tools and services built around React Native and, while it has many features, the most relevant feature 
-for us right now is that it can get you writing a React Native app within minutes
+https://www.youtube.com/watch?v=iWzUZiVoiR0
 
-npm install -g expo-cli
+1. Conda
+conda create --name react_native_env
+conda activate react_native_env
 
-npx create-expo-app --template
-> Blank
-cd NFT_Marketplace
-npx expo start
-
-Install Expo Go to see app
