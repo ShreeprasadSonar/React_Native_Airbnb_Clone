@@ -24,3 +24,12 @@ npx expo install expo-secure-store
 
 6. For prod in googlein cleark -> Google -> Use custom Credentials
 Google Cloud -> Project -> API & Services -> Credentials -> Create Credentials -> OAuth Client ID
+
+7. To make device shake 
+npx expo install expo-haptics
+
+8. Fake Airbnb Listings
+https://public.opendatasoft.com/explore/dataset/airbnb-listings/table/?flg=en-us&disjunctive.host_verifications&disjunctive.amenities&disjunctive.features
+
+9. Get GeoJSON data for airbnb
+
